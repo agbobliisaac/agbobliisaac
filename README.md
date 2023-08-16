@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Student
 --------------------------
 
-As a highly skilled and versatile full-stack web developer, I have a strong foundation in HTML, CSS, and JavaScript, as well as experience with modern frameworks such as React, Next.js, and Express.js. I have also worked with various backend technologies, including PHP and Laravel, and have proficiency in databases such as MySQL and Mongoose. In addition, I am proficient in CMS platforms such as WordPress and have experience with cloud services like Firebase. I am also well-versed in design frameworks such as Bootstrap and Tailwind CSS, which allows me to create visually appealing and responsive websites. With my diverse skill set and ability to adapt to new technologies quickly, I can confidently tackle any web development project thrown my way.
+As a highly skilled and versatile full-stack web developer, I have a strong foundation in HTML, CSS, and JavaScript, as well as experience with modern frameworks such as Vue, and Express.js. I have also worked with various backend technologies, including PHP and Laravel, and have proficiency in databases such as MySQL and Mongoose. In addition, I am proficient in CMS platforms such as WordPress and have experience with cloud services like Firebase. I am also well-versed in design frameworks such as Bootstrap and Tailwind CSS, which allows me to create visually appealing and responsive websites. With my diverse skill set and ability to adapt to new technologies quickly, I can confidently tackle any web development project thrown my way.
 
 * ✉️  You can contact me at [agbobliisaac@gmail.com](mailto:agbobliisaac@gmail.com)
 * 🧠  I'm learning Everything on JavaScript and TypeScript
@@ -40,7 +40,7 @@ As a highly skilled and versatile full-stack web developer, I have a strong foun
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/agbobliisaac"><img src="https://github-readme-stats.vercel.app/api?username=agbobli5373&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agbobli5373's GitHub stats" /></a>
+<a href="http://www.github.com/agbobliisaac"><img src="https://github-readme-stats.vercel.app/api?username=agbobliisaac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agbobli5373's GitHub stats" /></a>
 
 <a href="https://github.com/agbobliisaac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbobliisaac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
