@@ -40,11 +40,11 @@ As a highly skilled and versatile full-stack web developer, I have a strong foun
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/agbobliisaac"><img src="https://github-readme-stats.vercel.app/api?username=agbobliisaac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agbobli5373's GitHub stats" /></a>
+<a href="http://www.github.com/amt-isaac-agbobli"><img src="https://github-readme-stats.vercel.app/api?username=agbobliisaac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agbobli5373's GitHub stats" /></a>
 
-<a href="https://github.com/agbobliisaac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbobliisaac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/amt-isaac-agbobli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbobliisaac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!---
-Agbobliisaac/Agbobliisaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amt-isaac-agbobli/amt-isaac-agbobli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
